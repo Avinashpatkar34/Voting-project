@@ -1,6 +1,8 @@
 # Election Sentiment Analysis System
 
 This project provides a complete system for analyzing sentiment and predicting voter preferences based on social media content. It includes a Python Flask backend for text analysis and a React frontend for visualization.
+## project preview 
+![preview png](https://github.com/user-attachments/assets/7dadfb66-387d-475e-93b8-38e1c6f4789c)
 
 ## Project Structure
 
